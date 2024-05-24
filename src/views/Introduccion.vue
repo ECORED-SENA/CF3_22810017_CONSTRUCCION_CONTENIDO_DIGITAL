@@ -30,7 +30,7 @@
 
 
     .titulo-sexto.color-acento-contenido(data-aos="fade")
-      h5 Tabla 1
+      h5 Calendario
     
     .tabla-b.color-acento-contenido.mb-5(data-aos="fade-down")
       .tabla-b__header
@@ -120,7 +120,7 @@
 
     .row.justify-content-center
       .col-md-10
-        .cajon.color-secundario.p-4
+        .cajon.fondo-color-sistema-i.p-4
           p.mb-0 Ya el calendario está listo, así que 
             b ¡manos a la obra!
             br
