@@ -259,17 +259,17 @@ export default {
     {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
-        {
+        /* {
           nombre: 'Nombre responsable',
           cargo: 'Nombre del rol',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
+        }, */
       ],
     },
     {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
-        {
+        /* {
           nombre: 'Nombre responsable',
           cargo: 'Diseñador de Contenidos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
@@ -288,7 +288,7 @@ export default {
           nombre: 'Nombre',
           cargo: 'Actividad Didáctica',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
+        }, */
       ],
     },
     {
