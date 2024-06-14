@@ -15,9 +15,9 @@
           p.mb-0 La idea es hacerlo a través de una herramienta gratuita como 
             strong Audacity. 
             | Ingresar y descargar la aplicación Audacityteam 
-            a(href="https://www.audacityteam.org/" target="_blank") https://www.audacityteam.org/ 
-            | presionando el botón de descarga 
-            b DOWNLOAD AUDACITY 
+            a(href="https://www.audacityteam.org/" target="_blank") https://www.audacityteam.org/
+            | &nbsp; presionando el botón de descarga 
+            b #[em Download] Audacity 
             | y realizar la respectiva instalación.
       .col-lg-5.mb-2(data-aos="fade-left")
         figure

@@ -45,9 +45,9 @@
             th 
               .h5.mb-0 Tipo de contenido 
             th 
-              .h5.mb-0 Guión 
+              .h5.mb-0 Guion 
             th 
-              .h5.mb-0 Copy
+              .h5.mb-0 #[em Copy]
             th 
               .h5.mb-0 Fecha
             th 
@@ -82,7 +82,7 @@
             td.text-small Servicio 24 horas +573001234567
             td.text-small - - -
             td.text-small 1 septiembre 2021
-            td.text-small Historia tipo Poster.
+            td.text-small Historia tipo #[em Poster].
           tr
             td.red-social 
               i.fab.fa-instagram

@@ -25,7 +25,7 @@
     h3(data-aos="fade-right") ¡Ahora es su turno!
 
     p.mb-5(data-aos="fade") Teniendo claro el proceso para la creación de un video, lo invitamos a producir un video de máximo un minuto y compartirlo en el foro técnico de la plataforma y si los desea con sus redes sociales, 
-      span.etiqueta usando el hashtag 
+      span.etiqueta usando el #[em hashtag] 
         b #HabilidadesDigitalesSena.
 
     .row.justify-content-center(data-aos="fade-down")

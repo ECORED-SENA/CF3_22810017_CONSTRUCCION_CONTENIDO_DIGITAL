@@ -104,9 +104,9 @@
             th 
               .h5.mb-0 Tipo de contenido 
             th 
-              .h5.mb-0 Guión 
+              .h5.mb-0 Guion 
             th 
-              .h5.mb-0 Copy
+              .h5.mb-0 #[em Copy]
             th 
               .h5.mb-0 Fecha
             th 

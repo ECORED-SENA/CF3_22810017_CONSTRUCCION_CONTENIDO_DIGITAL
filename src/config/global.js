@@ -130,7 +130,7 @@ export default {
     {
       termino: '<em>Bit Rate</em>',
       significado:
-        'Se refiere a la cantidad de información por segundo que nuestro ordenador o móvil lee al reproducir un archivo de video. Por tanto, cuanto mayor sea el bitrate mayor será la calidad del material.',
+        'Se refiere a la cantidad de información por segundo que nuestro ordenador o móvil lee al reproducir un archivo de video. Por tanto, cuanto mayor sea el <em>bitrate</em> mayor será la calidad del material.',
     },
     {
       termino: 'Canva',
@@ -174,7 +174,7 @@ export default {
     {
       termino: 'Mapa de <em>Bits (Bitmaps)</em>',
       significado:
-        'Hace referencia a una imagen que está constituida por pixeles que tienen información de color. Los formatos de imagen para mapa de bits son: PNG, JPEG y GIF. El programa más usado para editar estas imágenes es Photoshop.',
+        'Hace referencia a una imagen que está constituida por píxeles que tienen información de color. Los formatos de imagen para mapa de bits son: PNG, JPEG y GIF. El programa más usado para editar estas imágenes es Photoshop.',
     },
     {
       termino: 'Multimedia',
@@ -182,9 +182,9 @@ export default {
         'El término se refiere a cualquier plataforma que utiliza diferentes medios de expresión para comunicar y dar a conocer información, desde texto e imágenes hasta gifs, videos y audios.',
     },
     {
-      termino: 'Pixel',
+      termino: 'Píxel',
       significado:
-        'Elemento más pequeño de la imagen de un monitor. El término proviene de dos palabras inglesas: picture y element.',
+        'Elemento más pequeño de la imagen de un monitor. El término proviene de dos palabras inglesas: <em>picture</em> y <em>element</em>.',
     },
     {
       termino: 'Pódcast',
@@ -199,7 +199,7 @@ export default {
     {
       termino: 'RGB',
       significado:
-        'Rojo, verde y azul. Colores primarios de la mezcla aditiva de colores. RGB designa el método que se emplea en informática para codificar la información de la imagen en pixeles, cada uno con una determinada combinación de estos tres colores primarios.',
+        'Rojo, verde y azul. Colores primarios de la mezcla aditiva de colores. RGB designa el método que se emplea en informática para codificar la información de la imagen en píxeles, cada uno con una determinada combinación de estos tres colores primarios.',
     },
     {
       termino: 'Playlist',
@@ -212,7 +212,7 @@ export default {
         'Son videos grabados con cámaras especiales, capaces de captar la acción en un ángulo de 360 grados.',
     },
     {
-      termino: '<em>Voz en off</em>',
+      termino: 'Voz en <em>off</em>',
       significado:
         'Narración en la que el locutor no está en la escena. Se suele añadir al editar.',
     },
@@ -259,36 +259,54 @@ export default {
     {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
-        /* {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+        {
+          nombre: 'Jesualdo Morantes',
+          cargo: 'Instructor',
+          centro: 'SENA - Regional Norte de Santander',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor metodológico y pedagógico',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Evaluadora Instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        }, */
+        },
       ],
     },
     {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
-        /* {
-          nombre: 'Nombre responsable',
+        {
+          nombre: 'Yerson Fabián Zárate Saavedra',
           cargo: 'Diseñador de Contenidos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Juan Carlos Tapias Rueda',
+          cargo: 'Diseño web',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Edwin Sneider Velandia Suárez',
           cargo: 'Desarrollador Fullstack',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
+          nombre: 'Edgar Mauricio Cortés García',
+          cargo: 'Actividad Didáctica',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        }, */
+          nombre: 'Andrea Paola Botello De la Rosa',
+          cargo: 'Desarrollo <em>Front-end</em>',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
       ],
     },
     {
@@ -300,18 +318,13 @@ export default {
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Jaime Hernán Tejada Llano',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          nombre: 'Margarita Marcela Medrano Gómez',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Margarita Marcela Medrano Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
