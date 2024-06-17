@@ -89,7 +89,7 @@
     p.mb-5(data-aos="fade-down") Para empezar el proceso de creación de contenido gráfico, se tendrá en cuenta la primera pieza que se describe en la planeación como lo muestra la tabla 2, la cual corresponde al identificador visual para las redes sociales Whatsapp, Instagram y Facebook.      
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-down")
-      h5 Identificador visual
+      p.mb-0 #[b Tabla 2.] Identificador visual
     
     .tabla-b.color-acento-contenido.mb-5(data-aos="fade-down")
       .tabla-b__header

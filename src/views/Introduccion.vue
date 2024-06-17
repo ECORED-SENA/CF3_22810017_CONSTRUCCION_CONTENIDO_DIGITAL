@@ -30,7 +30,7 @@
 
 
     .titulo-sexto.color-acento-contenido(data-aos="fade")
-      h5 Calendario
+      p.mb-0 #[b Tabla 1.] Calendario
     
     .tabla-b.color-acento-contenido.mb-5(data-aos="fade-down")
       .tabla-b__header
