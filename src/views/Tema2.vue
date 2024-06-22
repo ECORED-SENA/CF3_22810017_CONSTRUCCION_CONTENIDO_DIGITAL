@@ -62,10 +62,11 @@
    
     p.mb-4(data-aos="fade") A continuación, en el siguiente video se enseña cómo crear el audio para el guion propuesto.
 
-    .row.justify-content-center
-      .col-lg-10(data-aos="fade-down")
-        figure.mb-5
-          img(src='@/assets/curso/temas/img-video-temporal.png')
+    .row.justify-content-center.align-items-center.mb-5           
+      .col-lg-12(data-aos="fade-left")     
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/idytgxMOEeY?si=UBaI21_qDemrlqiE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     
     h3(data-aos="fade-right") ¡Ahora es su turno!

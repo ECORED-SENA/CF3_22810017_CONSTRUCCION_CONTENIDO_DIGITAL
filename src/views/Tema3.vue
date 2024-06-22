@@ -16,10 +16,11 @@
     
     p.mb-5(data-aos="fade") Para iniciar, se recomienda tener todos los recursos copiados en el dispositivo móvil. Luego, consultar el siguiente video, el cual nos presentará paso a paso, la creación de un video.
 
-    .row.justify-content-center
-      .col-lg-10(data-aos="fade-down")
-        figure.mb-5
-          img(src='@/assets/curso/temas/img-video-temporal.png')
+    .row.justify-content-center.align-items-center.mb-5           
+      .col-lg-12(data-aos="fade-left")     
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/KWV_zQmtUVo?si=k_y5l0_Ar_n08t6e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
     h3(data-aos="fade-right") ¡Ahora es su turno!

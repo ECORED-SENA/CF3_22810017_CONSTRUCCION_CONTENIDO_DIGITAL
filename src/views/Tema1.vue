@@ -83,7 +83,7 @@
 
     figure.mb-5(data-aos="fade-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/UWSe5bCGNhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/eoBn2h5WCJo?si=IWXAq4YNRjHfBWum" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
     p.mb-5(data-aos="fade-down") Para empezar el proceso de creación de contenido gráfico, se tendrá en cuenta la primera pieza que se describe en la planeación como lo muestra la tabla 2, la cual corresponde al identificador visual para las redes sociales Whatsapp, Instagram y Facebook.      
@@ -135,17 +135,19 @@
 
     p.mb-4(data-aos="fade") El siguiente video presenta el flujo de trabajo, el cual aportará, como resultado, una marca visual para la empresa de domicilios “Voy Llegando”.
 
-    .row.justify-content-center
-      .col-lg-10(data-aos="fade-down")
-        figure.mb-5
-          img(src='@/assets/curso/temas/img-video-temporal.png')
+    .row.justify-content-center.align-items-center.mb-5           
+      .col-lg-12(data-aos="fade-left")     
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/f2L_Y8cAN_U?si=5OrcOipLkcAEGwwN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-4(data-aos="fade") Luego de desarrollar la marca visual, se reutiliza gran parte de su contenido para crear las piezas gráficas iniciales. Consulta el siguiente video, el cual enseña a cómo seguir creando piezas, según el calendario propuesto.
   
-    .row.justify-content-center
-      .col-lg-10(data-aos="fade-down")
-        figure.mb-5
-          img(src='@/assets/curso/temas/img-video-temporal.png')
+    .row.justify-content-center.align-items-center.mb-5           
+      .col-lg-12(data-aos="fade-left")     
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/WcqGt0S7Er8?si=Fck2DMDFlNOK4cg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
     h3(data-aos="fade-right") ¡Ahora es su turno!
