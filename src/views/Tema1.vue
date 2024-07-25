@@ -76,7 +76,7 @@
       b Entonces, podemos concluir que el color es pura emoción.
       br
       br
-      | Es aquí donde todos estos atributos que observamos en el color, son altamente apreciados y por eso es sustentado por artistas, publicistas, diseñadores científicos, etc.
+      | Es aquí donde todos estos atributos que observamos en el color son altamente apreciados y por eso es sustentado por artistas, publicistas, diseñadores científicos, etc.
       br
       br
       b El siguiente video presenta el significado de los colores en la publicidad. 
@@ -86,7 +86,7 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/eoBn2h5WCJo?si=IWXAq4YNRjHfBWum" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
-    p.mb-5(data-aos="fade-down") Para empezar el proceso de creación de contenido gráfico, se tendrá en cuenta la primera pieza que se describe en la planeación como lo muestra la tabla 2, la cual corresponde al identificador visual para las redes sociales Whatsapp, Instagram y Facebook.      
+    p.mb-5(data-aos="fade-down") Para empezar el proceso de creación de contenido gráfico, se tendrá en cuenta la primera pieza que se describe en la planeación como lo muestra la tabla 2, la cual corresponde al identificador visual para las redes sociales WhatsApp, Instagram y Facebook.
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-down")
       p.mb-0 #[b Tabla 2.] Identificador visual

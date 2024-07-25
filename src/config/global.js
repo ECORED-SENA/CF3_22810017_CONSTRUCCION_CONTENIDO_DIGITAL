@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Construcción de contenido digital',
     descripcionCurso:
-      'En este componente se pone práctica todo lo aprendido en los componentes anteriores. El flujo de trabajo de la producción de contenido, es completamente práctico, donde se pretende el desarrollo de diferentes piezas de contenido digital que se utilizarán en plataformas sociales.',
+      'En este componente se pone práctica todo lo aprendido en los componentes anteriores. El flujo de trabajo de la producción de contenido es completamente práctico, donde se pretende el desarrollo de diferentes piezas de contenido digital que se utilizarán en plataformas sociales.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -125,7 +125,7 @@ export default {
     {
       termino: '<em>Backup</em>',
       significado:
-        'Copia de seguridad de archivos, que se crea para evitar que se pierda la información gráfica en caso que se pierdan los originales, o se necesite hacer nuevos cambios en el diseño.',
+        'Copia de seguridad de archivos, que se crea para evitar que se pierda la información gráfica en caso de que se pierdan los originales, o se necesite hacer nuevos cambios en el diseño.',
     },
     {
       termino: '<em>Bit Rate</em>',
